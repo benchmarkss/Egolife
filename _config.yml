@@ -1,7 +1,7 @@
 # site settings
 title: Egolife
 subtitle: by The EgoLife Team
-email: youremailaddress@gmail.com
+email: jingkang001@e.ntu.edu.sg
 description: sadsadsa
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
